@@ -5,4 +5,4 @@ Advantages of git over other tools like google docs or dropbox. (the answer is t
 anyone who edited the file i will know who edited it 
 
 
-a branch is like a side note of the project , like if i am testing something and i don't want to mess with the master file
+a branch is like a side note of the project , like if i am testing something and i don't want to mess with the master file or to having a two diffrent possibilities
