@@ -2,4 +2,7 @@ this is a system that can used to keep track the history of a project as well as
 Advantages of git over other tools like google docs or dropbox. (the answer is that this system allows alot of features in collaboration it dosen't have a problem with two or more people working on the same document at the same time with alot of ways of managing that)
 
 
-any one who edited the file i will know who edited it 
+anyone who edited the file i will know who edited it 
+
+
+a branch is like a side note of the project , like if i am testing something and i don't want to mess with the master file or to having a two diffrent possibilities
